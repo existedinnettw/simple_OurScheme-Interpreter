@@ -17,7 +17,7 @@
      function calls( create-error-object, error-object?,
      read, write, display-string, newline, eval, and set!)
 
-     **Note:** This Project is only completed to Project 3 \
+     **Note:** This Project is only completed to Project3 and part of  Project4
 ## Status
 Check details from [OurSchemeIntro](doc/OurSchemeIntro.doc)
    - Constructors
@@ -37,7 +37,7 @@ Check details from [OurSchemeIntro](doc/OurSchemeIntro.doc)
    - Lexical error、syntactic error、 semantic error
    - Clean-environment
    
-   does not support :
+   Does not support :
 
    1. Target functions:
       - Change of (local) symbol bindings ("assignment")
