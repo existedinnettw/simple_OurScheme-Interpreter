@@ -54,7 +54,8 @@ An interactive system running in DOS， It works very similarly to Petite Chez S
    3. Once the process reaches the '(exit)' entered by the user, directly terminate the program.
       ![image](https://github.com/user-attachments/assets/4dbf627e-ddbe-4b4f-b8f4-c040df3a8c1a)
 
-   4. Since the input is provided by an input file instead of interactive I/O, it is possible that the user has not yet finished entering an S-expression and then runs out of input. In this case, the system should print the following message: 
+   4. Since the input is provided by an input file instead of interactive I/O, it is possible that the user has not yet finished entering an \
+      S-expression and then runs out of input. In this case, the system should print the following message: 
      
        ERROR (no more input): END-OF-FILE encountered
        
