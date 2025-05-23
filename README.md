@@ -19,7 +19,7 @@
 
      **Note:** This Project is only completed to Project 3 \
 ## Status
-Check details from [OurSchemeIntro](doc/OurSchemeIntro)
+Check details from [OurSchemeIntro](doc/OurSchemeIntro.doc)
    - Constructors
      A list (or a dotted pair)
    - Bypass the default interpretation of an S-exp
