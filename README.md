@@ -3,7 +3,7 @@
    Dev-C++ IDE
    Compiler: TDM-GCC 4.9.2
 ## Description
-中原大學三下PL(程式語言)project 占分70% 分為 project1 to 4  
+中原大學三下PL(程式語言)project 占分70% 分為 project1 to 4  目的為訓練學生完成大程式的整合以及模組化思考
    - **Project 1 :** [OurSchemeProj1-UTF-8.txt](doc/OurSchemeProj1-UTF-8.txt) \
      Complete Scanner layer, Parser layer, Printer, and basic error handling
    - **Project 2 :** [OurSchemeProj2-UTF-8.txt](doc/OurSchemeProj2-UTF-8.txt)\
