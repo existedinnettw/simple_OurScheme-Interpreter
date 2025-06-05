@@ -1,0 +1,13 @@
+*.exe
+*.bin
+*.so
+*.dll
+*.dylib
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+
+
+build/*
